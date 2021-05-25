@@ -1,4 +1,4 @@
-//
+//  Demo: https://www.applit.io/blog/simple-ios-photo-feed/
 //  ScrollViewDemoApp.swift
 //  ScrollViewDemo
 //
@@ -11,7 +11,7 @@ import SwiftUI
 struct ScrollViewDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PhotosView()
         }
     }
 }
